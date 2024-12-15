@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cactus theme example</title>
+    <link>https://Saravana-kumar-j.github.io/sarkyblog/tags/</link>
+    <description>Recent content in Tags on Cactus theme example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Saravana-kumar-j.github.io/sarkyblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learn</title>
+      <link>https://Saravana-kumar-j.github.io/sarkyblog/tags/learn/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Saravana-kumar-j.github.io/sarkyblog/tags/learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rust</title>
+      <link>https://Saravana-kumar-j.github.io/sarkyblog/tags/rust/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Saravana-kumar-j.github.io/sarkyblog/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

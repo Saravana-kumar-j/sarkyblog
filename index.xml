@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cactus theme example</title>
+    <link>https://Saravana-kumar-j.github.io/sarkyblog/</link>
+    <description>Recent content on Cactus theme example</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://Saravana-kumar-j.github.io/sarkyblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog about RUST</title>
+      <link>https://Saravana-kumar-j.github.io/sarkyblog/web-blog/test-blog-about-rust/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://Saravana-kumar-j.github.io/sarkyblog/web-blog/test-blog-about-rust/</guid>
+      <description>That&amp;rsquo;s great! Rust is a systems programming language known for its focus on safety, performance, and concurrency. Here&amp;rsquo;s a step-by-step guide to help you get started with Rust:
+1. Install Rust Rustup is the official installer and version management tool for Rust.
+On your terminal, you can install it with:
+1curl --proto &amp;#39;=https&amp;#39; --tlsv1.2 -sSf https://sh.rustup.rs | sh After installation, ensure that rustc (the Rust compiler) is installed by running:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Saravana-kumar-j.github.io/sarkyblog/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Saravana-kumar-j.github.io/sarkyblog/welcome/</guid>
+      <description>This is your new vault.
+Make a note of something, [[create a link]], or try the Importer!
+When you&amp;rsquo;re ready, delete this note and make the vault your own.</description>
+    </item>
+    
+  </channel>
+</rss>
